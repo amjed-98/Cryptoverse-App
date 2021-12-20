@@ -19,3 +19,4 @@ ReactDOM.render(
 // todo implement loading spinner
 // todo add exchanges component
 // todo next.js serverSide rendering
+// todo
